@@ -27,62 +27,65 @@ first i starded with the classic property's
 </ul>
 
 then i created a section and inside i put the form
-
-form id="my-form" <br>
-        h1 Add User /h1 <br>
-        div class="msg" /div <br>
-        div <br>
-          label for="name" Name: /label <br>
-          input type="text" id="name" <br>
-        /div <br>
-        div <br>
-          label for="age" age: /label <br>
-          input type="text" id="age" <br>
-        /div <br>
-        input class="btn" type="submit" value="Submit" <br>
-      /form <br>
-
+```html
+<form id="my-form"> 
+        <h1> Add User </h1> 
+  <div class="msg"> </div>
+        <div> 
+          <label for="name"> Name: </label> 
+          <input type="text" id="name"> 
+  </div> 
+        <div> 
+          <label for="age"> age: </label> 
+          <input type="text" id="age"> 
+  </div> 
+        <input class="btn" type="submit" value="Submit">
+      </form> 
+```
 <h3>Then i said... Ewww that looks ugly</h3>
 so then i made it look better with some CSS3
+```css
 
-.container { <br>
-  margin: auto; <br>
-  width: 500px; <br>
-  overflow: auto; <br>
-  padding: 3rem 2rem; <br>
-} <br>
-<br>
-#my-form { <br>
-  padding: 2rem; <br>
-  background: #f4f4f4; <br>
-} <br>
-<br>
-#my-form label { <br>
-  display: block; <br>
-} <br>
-
-#my-form input[type='text'] { <br>
-  width: 100%; <br>
-  padding: 8px; <br>
-  margin-bottom: 10px; <br>
-  border-radius: 5px; <br>
-  border: 1px solid #ccc; <br>
-} <br>
-
-.btn { <br>
-  display: block; <br>
-  width: 100%; <br>
-  padding: 10px 15px; <br>
-  border: 0; <br>
-  background: #333; <br>
-  color: #fff; <br>
-  border-radius: 5px; <br>
-  margin: 5px 0; <br>
+.container {
+  margin: auto;
+  width: 500px;
+  overflow: auto;
+  padding: 3rem 2rem;
 }
 
-.btn:hover { <br>
-  background: #444; <br>
-} <br>
+#my-form {
+  padding: 2rem;
+  background: #f4f4f4;
+}
+
+#my-form label {
+  display: block;
+}
+
+#my-form input[type='text'] {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.btn {
+  display: block;
+  width: 100%;
+  padding: 10px 15px;
+  border: 0;
+  background: #333;
+  color: #fff;
+  border-radius: 5px;
+  margin: 5px 0;
+}
+
+.btn:hover {
+  background: #444;
+}
+
+```
 
 # Url To the Website
 
