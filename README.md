@@ -44,6 +44,7 @@ then i created a section and inside i put the form
 ```
 <h3>Then i said... Ewww that looks ugly</h3>
 so then i made it look better with some CSS3
+
 ```css
 
 .container {
@@ -86,6 +87,7 @@ so then i made it look better with some CSS3
 }
 
 ```
+
 
 # Url To the Website
 
