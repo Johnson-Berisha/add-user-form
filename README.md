@@ -5,6 +5,16 @@ Hello, there✌. <br>
 This is a form that can add as many users as you want and the best thing is that it is open-source. <br>
 This form is also built with a 10 second "please fill all fields" alert fully css 3 html 5 and javascript, <br>
 
+# Why Did I Create This?
+
+I was... BORED <br>
+yup, you heard me: im BORED
+
+<h3>The Idea From?</h3>
+@Astrit Malsija <br>
+The idea was from Astrit Malsija <br>
+
+
 # procces of making
 it took me not that much time, it was little hard but the best thing is it was fun.
 first i starded with the classic property's 
